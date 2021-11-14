@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">HanoiExample</string>
+    <string name="hanoi_format">%d번째 원판 %s 타워에서 %s 타워로 이동</string>
+</resources>
